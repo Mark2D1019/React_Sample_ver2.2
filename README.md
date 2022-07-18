@@ -1,2 +1,2 @@
-# React_Sample_ver2.2
+# React_Sample_ver2
 Created with CodeSandbox
